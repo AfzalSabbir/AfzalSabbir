@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AfzalSabbir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="https://komarev.com/ghpvc/?username=afzalsabbir"/>
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=afzalsabbir&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afzalsabbir&theme=blue-green)
 
 <!---
 AfzalSabbir/AfzalSabbir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
