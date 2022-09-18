@@ -2,7 +2,7 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=afzalsabbir&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afzalsabbir&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afzalsabbir&theme=white)
 
 <!---
 AfzalSabbir/AfzalSabbir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
