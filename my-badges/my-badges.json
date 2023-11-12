@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/AfzalSabbir/vue3-tests/commit/a9eef983d7ec4ff0ce7d48c333862c2240bc3639\"><strong>a</strong>9eef983d7ec4ff0ce7d48c333862c2240bc3639</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/AfzalSabbir/dashkit-bootstrap-vue/commit/aba5e165238d5ab37bd3972604e6e42bf1dc6c56\"><strong>ab</strong>a5e165238d5ab37bd3972604e6e42bf1dc6c56</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/afzalsabbir.github.io/commit/1bcadcd48c5da6a5a2597c25fbe247cb949513b1\">1bcadcd</a>\n- <a href=\"https://github.com/AfzalSabbir/afzalsabbir.github.io/commit/405d68308055c706657cb2c13f3f0e4c869f48e3\">405d683</a>\n- <a href=\"https://github.com/AfzalSabbir/afzalsabbir.github.io/commit/e24bd5e1a74739701a5d143f620a0e87ec173d0d\">e24bd5e</a>\n- <a href=\"https://github.com/AfzalSabbir/AfzalSabbir/commit/9905a5598bcf0d594df65f27c19255c34741fdfd\">9905a55</a>\n- <a href=\"https://github.com/AfzalSabbir/slug-generator/commit/38aaf636095f1f97fe1274df77908e601ec9c66e\">38aaf63</a>\n- <a href=\"https://github.com/AfzalSabbir/PermissionManager/commit/fc0fbe26b6ed264abcf83573b20a02138e668b2d\">fc0fbe2</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/a7db53a9ad3f0429ff290d553503ff64b5dbe8c1\">a7db53a</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/ba23fb4fdab7614c76b2857893de80ed23ed6a46\">ba23fb4</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/b3b3fef615093757a9261e94363a36af16fb8ccb\">b3b3fef</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/c0dc8afc9d34373d46af68547f3dfe13a2a5a617\">c0dc8af</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/bfcc80450bbc0fd39d53970180de470aec1d71f5\">bfcc804</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/16de6067587d8246f008e1465ca544d358fe8e10\">16de606</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 1 times.",
+    "body": "- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/1f8c97b0ea49e96ddead461fef08e5b8e5bdf545\">1f8c97b0ea49e96d<strong>dead</strong>461fef08e5b8e5bdf545</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/crud/commit/c36b9197a9d0464a6d2cf8d985cbde88b11fa552\">c36b919</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/crud/commit/b0897a79f27ec029c018b1b41446caeefdf39aaa\">b0897a7</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/revert-revert-commit/revert-revert-commit.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 133 times)\n2. - (used 84 times)\n3. readme.md (used 63 times)\n4. to (used 59 times)\n5. added (used 51 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  }
+]
