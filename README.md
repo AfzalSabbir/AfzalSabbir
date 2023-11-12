@@ -1,3 +1,6 @@
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 <img src="https://komarev.com/ghpvc/?username=afzalsabbir"/>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=afzalsabbir&show_icons=true)
