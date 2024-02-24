@@ -17,7 +17,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/typescript/commit/a9c439a9a01bac70354d1659d39561cc9d62c9ad\">a9c439a</a>\n- <a href=\"https://github.com/AfzalSabbir/backupmanager/commit/52335999c4ad77ff3393b368b0b684f98b902f70\">5233599</a>\n- <a href=\"https://github.com/AfzalSabbir/logmanager/commit/549de9f3261beac5c7d9485877f497d662f9fab5\">549de9f</a>\n- <a href=\"https://github.com/AfzalSabbir/backupmanager/commit/f07724aeb06ce2b5d6b762b1bafc5c043bde7665\">f07724a</a>\n- <a href=\"https://github.com/AfzalSabbir/logmanager/commit/9eb973b72132ebf3809ffae49b58987ca85cfea9\">9eb973b</a>\n- <a href=\"https://github.com/AfzalSabbir/backupmanager/commit/689dd4794b84beadfd51048c3babbe3588994934\">689dd47</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/4167ea5816a2d4db20f84aa2f7f8a5ad30dc36d5\">4167ea5</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/e494f0dbdc214ea3de5554c9dde4a877b07855ae\">e494f0d</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/ad85e357f2d954afc9500faac703b23e36a6533a\">ad85e35</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/9a01d1197320106757e5e5f4103ef2d695681fcc\">9a01d11</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/200d09b2855bfee0f4f1b80c74e523e41dd56b28\">200d09b</a>\n- <a href=\"https://github.com/AfzalSabbir/iSocial-Blog/commit/4a70f8e821a89b4947b0fb94fdb1bfcca114aeab\">4a70f8e</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/typescript/commit/a9c439a9a01bac70354d1659d39561cc9d62c9ad\">a9c439a</a>\n- <a href=\"https://github.com/AfzalSabbir/backupmanager/commit/52335999c4ad77ff3393b368b0b684f98b902f70\">5233599</a>\n- <a href=\"https://github.com/AfzalSabbir/logmanager/commit/549de9f3261beac5c7d9485877f497d662f9fab5\">549de9f</a>\n- <a href=\"https://github.com/AfzalSabbir/backupmanager/commit/f07724aeb06ce2b5d6b762b1bafc5c043bde7665\">f07724a</a>\n- <a href=\"https://github.com/AfzalSabbir/logmanager/commit/9eb973b72132ebf3809ffae49b58987ca85cfea9\">9eb973b</a>\n- <a href=\"https://github.com/AfzalSabbir/backupmanager/commit/689dd4794b84beadfd51048c3babbe3588994934\">689dd47</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
   }
 ]

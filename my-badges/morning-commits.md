@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/AfzalSabbir/typescript/commit/a9c439a9a01bac70354d1659d39561cc9d62c9ad">a9c439a</a>
-- <a href="https://github.com/AfzalSabbir/backupmanager/commit/52335999c4ad77ff3393b368b0b684f98b902f70">5233599</a>
-- <a href="https://github.com/AfzalSabbir/logmanager/commit/549de9f3261beac5c7d9485877f497d662f9fab5">549de9f</a>
-- <a href="https://github.com/AfzalSabbir/backupmanager/commit/f07724aeb06ce2b5d6b762b1bafc5c043bde7665">f07724a</a>
-- <a href="https://github.com/AfzalSabbir/logmanager/commit/9eb973b72132ebf3809ffae49b58987ca85cfea9">9eb973b</a>
-- <a href="https://github.com/AfzalSabbir/backupmanager/commit/689dd4794b84beadfd51048c3babbe3588994934">689dd47</a>
+- <a href="https://github.com/AfzalSabbir/vue-sfc-vite/commit/4167ea5816a2d4db20f84aa2f7f8a5ad30dc36d5">4167ea5</a>
+- <a href="https://github.com/AfzalSabbir/vue-sfc-vite/commit/e494f0dbdc214ea3de5554c9dde4a877b07855ae">e494f0d</a>
+- <a href="https://github.com/AfzalSabbir/vue-sfc-vite/commit/ad85e357f2d954afc9500faac703b23e36a6533a">ad85e35</a>
+- <a href="https://github.com/AfzalSabbir/vue-sfc-vite/commit/9a01d1197320106757e5e5f4103ef2d695681fcc">9a01d11</a>
+- <a href="https://github.com/AfzalSabbir/vue-sfc-vite/commit/200d09b2855bfee0f4f1b80c74e523e41dd56b28">200d09b</a>
+- <a href="https://github.com/AfzalSabbir/iSocial-Blog/commit/4a70f8e821a89b4947b0fb94fdb1bfcca114aeab">4a70f8e</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
