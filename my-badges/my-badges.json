@@ -17,14 +17,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/4167ea5816a2d4db20f84aa2f7f8a5ad30dc36d5\">4167ea5</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/e494f0dbdc214ea3de5554c9dde4a877b07855ae\">e494f0d</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/ad85e357f2d954afc9500faac703b23e36a6533a\">ad85e35</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/9a01d1197320106757e5e5f4103ef2d695681fcc\">9a01d11</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/200d09b2855bfee0f4f1b80c74e523e41dd56b28\">200d09b</a>\n- <a href=\"https://github.com/AfzalSabbir/iSocial-Blog/commit/4a70f8e821a89b4947b0fb94fdb1bfcca114aeab\">4a70f8e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/4167ea5816a2d4db20f84aa2f7f8a5ad30dc36d5\">4167ea5</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite-2/commit/e494f0dbdc214ea3de5554c9dde4a877b07855ae\">e494f0d</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/e494f0dbdc214ea3de5554c9dde4a877b07855ae\">e494f0d</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/ad85e357f2d954afc9500faac703b23e36a6533a\">ad85e35</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite-2/commit/9a01d1197320106757e5e5f4103ef2d695681fcc\">9a01d11</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/9a01d1197320106757e5e5f4103ef2d695681fcc\">9a01d11</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/AfzalSabbir/commit/b8e43f00f72820fd77125fe23961c04280a93171\">b8e43f0</a>\n- <a href=\"https://github.com/AfzalSabbir/AfzalSabbir/commit/7edddfe03b21f8f13bada5fbf581623d732cab32\">7edddfe</a>\n- <a href=\"https://github.com/AfzalSabbir/AfzalSabbir/commit/f4f4f77ec674b243f992981619ffd51b68e75745\">f4f4f77</a>\n- <a href=\"https://github.com/AfzalSabbir/AfzalSabbir/commit/b77df98f8dfeeeb83c44fedff3346045d16ed793\">b77df98</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/b88cf8c168dd6541c42c4488b9cead3d72c05e1f\">b88cf8c</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/39219f2b0dcf2c661b397264594e2a18cfb14aba\">39219f2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AfzalSabbir/AfzalSabbir/commit/b8e43f00f72820fd77125fe23961c04280a93171\">b8e43f0</a>\n- <a href=\"https://github.com/AfzalSabbir/AfzalSabbir/commit/7edddfe03b21f8f13bada5fbf581623d732cab32\">7edddfe</a>\n- <a href=\"https://github.com/AfzalSabbir/AfzalSabbir/commit/f4f4f77ec674b243f992981619ffd51b68e75745\">f4f4f77</a>\n- <a href=\"https://github.com/AfzalSabbir/AfzalSabbir/commit/b77df98f8dfeeeb83c44fedff3346045d16ed793\">b77df98</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite-2/commit/b88cf8c168dd6541c42c4488b9cead3d72c05e1f\">b88cf8c</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/b88cf8c168dd6541c42c4488b9cead3d72c05e1f\">b88cf8c</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -44,8 +44,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 1 times.",
-    "body": "- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/1f8c97b0ea49e96ddead461fef08e5b8e5bdf545\">1f8c97b0ea49e96d<strong>dead</strong>461fef08e5b8e5bdf545</a>",
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite-2/commit/1f8c97b0ea49e96ddead461fef08e5b8e5bdf545\">1f8c97b0ea49e96d<strong>dead</strong>461fef08e5b8e5bdf545</a>\n- <a href=\"https://github.com/AfzalSabbir/vue-sfc-vite/commit/1f8c97b0ea49e96ddead461fef08e5b8e5bdf545\">1f8c97b0ea49e96d<strong>dead</strong>461fef08e5b8e5bdf545</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
   },
   {
@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 136 times)\n2. readme.md (used 63 times)\n3. to (used 59 times)\n4. merge (used 51 times)\n5. added (used 51 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 151 times)\n2. to (used 74 times)\n3. readme.md (used 68 times)\n4. merge (used 63 times)\n5. added (used 59 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
